@@ -5,4 +5,4 @@ https://drive.google.com/file/d/1-ASTU-oI5NOs9pHSk-AFQVJ6eGJpoEYU/view?usp=drive
 
 
 play online:
-https://tic-tac-toe-psi-ivory.vercel.app/
+https://xm-tic-tac-toe.vercel.app
